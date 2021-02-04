@@ -1,10 +1,18 @@
 import react from 'react'
+import Header from './component/Header'
+import Footer from './component/Footer'
+import {Container} from 'react-bootstrap'
 
 function App() {
   return (
     <>
-       <h1>Hello wolrd</h1>
-       <p>Hello wolrd twice</p>
+      
+        <Header />
+        <main>
+          i'm tha main file
+        </main>
+        <Footer />
+      
     </>
   );
 }
