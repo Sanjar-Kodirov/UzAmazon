@@ -7,3 +7,6 @@ html{
 li {
     list-style: none;
 }
+.rounded-4{
+    border-radius: 20px;
+}
