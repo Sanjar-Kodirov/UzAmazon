@@ -8,7 +8,7 @@ const Footer = () => {
             <Container>
                 <Row>
                     <Col className="text-center py-3" sm={12} md={6} lg={3}>
-                        <ul>
+                        <ul className="text-left">
                             <li className="font-weight-bold">Lorem hello world</li>
                             <li>Lorem hello world</li>
                             <li>Lorem hello world</li>
@@ -16,7 +16,7 @@ const Footer = () => {
                         </ul>
                     </Col>
                     <Col className="text-center py-3" sm={12} md={6} lg={3}>
-                        <ul>
+                        <ul className="text-left">
                             <li className="font-weight-bold">Lorem hello world</li>
                             <li>Lorem hello world</li>
                             <li>Lorem hello world</li>
@@ -24,7 +24,7 @@ const Footer = () => {
                         </ul>
                     </Col>
                     <Col className="text-center py-3" sm={12} md={6} lg={3}>
-                        <ul>
+                        <ul className="text-left">
                             <li className="font-weight-bold">Lorem hello world</li>
                             <li>Lorem hello world</li>
                             <li>Lorem hello world</li>
@@ -32,7 +32,7 @@ const Footer = () => {
                         </ul>
                     </Col>
                     <Col className="text-center py-3" sm={12} md={6} lg={3}>
-                        <ul>
+                        <ul className="text-left">
                             <li className="font-weight-bold">Lorem hello world</li>
                             <li>Lorem hello world</li>
                             <li>Lorem hello world</li>
